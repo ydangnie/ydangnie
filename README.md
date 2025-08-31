@@ -1,18 +1,3 @@
-# 💫About Me :
-🔭 Currently working on: Turning lines of code into real-world solutions
-
-🤝 Looking to collaborate on: High-impact projects with passionate people
-
-💡 Looking for help with: Developing leadership skills in a team environment
-
-🌱 Currently learning: How algorithms shape user behavior
-
-💬 Ask me about: Anything related to UX/UI or work-life balance tips
-
-⚡ Fun fact: I love hiking and find my best ideas in nature
-
-✨ Motto: "Code for Impact, not just for Function"
-
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dangnie_06) 
 
